@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik096096&label=Profile%20views&color=0e75b6&style=flat" alt="pratik096096" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratik096096" alt="pratik096096" /></a> </p>
+
 
 - 👨‍💻 My portfolio [https://myportfo-ceca8.web.app/](https://myportfo-ceca8.web.app/)
 
